@@ -1,5 +1,5 @@
 # Ping
-Reimplementation of the ping command in C
+Reimplementation of the ping command in C.
 
 ```bash
 $ make && ./ft_ping 8.8.8.8
