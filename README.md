@@ -1,4 +1,4 @@
-# ping
+# Ping
 Reimplementation of the ping command in C
 
 ```bash
